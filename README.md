@@ -5,7 +5,7 @@ set module : react, react-router-dom,
 
 ## INTRODUCTION
 ![Foo-Do](https://i.imgur.com/2cQuU1t.gif)
-
+[Imgur](https://i.imgur.com/2cQuU1t.gifv)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
