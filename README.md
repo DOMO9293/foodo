@@ -4,8 +4,10 @@ create-react-app/
 set module : react, react-router-dom, 
 
 ## INTRODUCTION
-![Foo-Do](https://i.imgur.com/2cQuU1t.gif)
-[Imgur](https://i.imgur.com/2cQuU1t.gifv)
+![](https://i.imgur.com/2cQuU1t.gif)
+
+<img src="https://i.imgur.com/2cQuU1t.gif" width="400" height="400" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
