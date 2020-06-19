@@ -6,6 +6,14 @@
 
 ## Summary
 
+Pantry inventory management application
+
+* Inventory management
+
+* Menu recommendation
+
+* Recommended Menu Recipes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 You can run the app with `yarn start`
 
