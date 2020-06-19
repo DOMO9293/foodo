@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can run the app with `yarn start`
 
 ## Author
-* Jaesook Jeong -Front-End Software Developer - Website | LinkedIn 
+* Jaesook Jeong -Front-End Software Developer - [Website](https://domo9293.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/jaesook-jeong-7499b71aa) 
   * Used ReactStrap for the entire component design.
   * Implemented React router for building single page application.
   * Used axios library for making HTTP calls.
